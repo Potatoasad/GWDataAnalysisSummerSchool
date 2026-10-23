@@ -5,7 +5,9 @@ Copenhagen in 2017.
 
 You can find video of my lectures (and others!) at
 https://www.youtube.com/playlist?list=PL3oNS3JrakNBkY_bB2JZbUchKxXjWKlBh 
-## Running the Notebooks
+
+
+## Running the Notebooks (Potatoasad has ported these lectures to numpyro. This section is not by Will Farr!)
 
 The models are written in [NumPyro](https://num.pyro.ai) (originally they
 used PyStan).  Install [uv](https://docs.astral.sh/uv/), then from the root of

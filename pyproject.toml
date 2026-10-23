@@ -1,0 +1,19 @@
+[project]
+name = "gwdataanalysissummerschool"
+version = "0.1.0"
+description = "Lectures on gravitational wave data analysis (Copenhagen summer school, 2017)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arviz>=1.3.0",
+    "corner>=2.3.0",
+    "daft-pgm>=0.1.4",
+    "h5py>=3.16.0",
+    "jax>=0.12.0.1",
+    "jupyter>=1.1.1",
+    "numpy>=2.5.4",
+    "numpyro>=0.22.0",
+    "pandas>=3.1.0",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
